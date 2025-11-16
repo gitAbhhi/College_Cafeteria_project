@@ -18,5 +18,5 @@ export const assets ={
     cart
 }
 
-export const url = 'http://localhost:4000'
-// export const url = 'https://food-ordering-website-mern.onrender.com'
+// export const url = 'http://localhost:4000'
+export const url = 'https://college-cafeteria-project-backend.onrender.com'
